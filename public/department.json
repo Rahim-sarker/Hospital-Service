@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "dname": "Cardiology",
+        "desc": "Doctor Bolad, triple board certified physician in Cardiology, Interventional Cardiology and Internal Medicine, certified by the American Board of Internal Medicine",
+        "img": "https://www.rumcsi.org/wp-content/uploads/2020/09/Cardiology-scaled.jpg"
+    },
+    {
+        "id": 2,
+        "dname": "Neurology",
+        "desc": "Neurology is the branch of medicine concerned with the study and treatment of disorders of the nervous system.",
+        "img": "https://www.regionalneurological.com/wp-content/uploads/2019/12/AdobeStock_172813720.jpeg"
+    },
+    {
+        "id": 3,
+        "dname": "Urology",
+        "desc": "Urology, also known as genitourinary surgery, is the branch of medicine that focuses on surgical and medical diseases of the male and female urinary-tract",
+        "img": "https://images.medicinenet.com/images/article/main_image/urologist-1.jpg"
+    },
+    {
+        "id": 4,
+        "dname": "Hematology",
+        "desc": "Hematology is the science or study of blood, blood-forming organs and blood diseases. In the medical field, hematology includes the treatment of blood disorders",
+        "img": "https://www.journalijr2h.com/public/journals/111/homepageImage_en_US.jpg"
+    },
+    {
+        "id": 5,
+        "dname": "Oncology",
+        "desc": "Oncology is the study of cancer. An oncologist is a doctor who treats cancer and provides medical care for a person diagnosed with cancer. An oncologist may also be called a cancer specialist",
+        "img": "https://www.journalirjo.com/public/journals/118/homepageImage_en_US.jpg"
+    },
+    {
+        "id": 6,
+        "dname": "Gynecology",
+        "desc": "A gynecologist is a doctor who specializes in female reproductive health. They diagnose and treat issues related to the female reproductive tract.",
+        "img": "https://www.royalfree.nhs.uk/images/made/images/remote/http_s3-eu-west-1.amazonaws.com/img.royalfree.nhs.uk/Website_photos/staying_790_375_80_c1.jpg"
+    }
+]

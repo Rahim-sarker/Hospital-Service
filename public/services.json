@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "serviceName": "Corona Unit",
+        "Time": "24 hour",
+        "description": "If you show any symptoms related to COVID-19, please contact 10655 immediately. The following hospitals have been allocated as of now to treat COVID-19 patients.",
+        "img": "https://media.istockphoto.com/photos/coronavirus-and-dna-virus-mutation-new-variant-and-strain-of-sars-cov-picture-id1301873080?s=612x612"
+    },
+    {
+        "id": 2,
+        "serviceName": "Out Door Patents",
+        "Time": "8:0am-2:0pm hour",
+        "description": "Institute provides free health care services, including investigations and medication to the patients.",
+        "img": "https://image.shutterstock.com/image-photo/asian-patient-man-looking-outside-260nw-1566099874.jpg"
+    },
+    {
+        "id": 3,
+        "serviceName": "Indoor Patents",
+        "Time": "2:0pm-12:0am hour",
+        "description": "Critical patients are treated in the IMCU, ICU, CCU, PICU, HDU and Cathlab while burns cases are treated in the BCU.",
+        "img": "https://image.freepik.com/free-vector/medical-equipment-isometric-composition-with-observation-ward-indoor-interior-primary-care-physician-patient-human-characters_1284-26993.jpg"
+    },
+    {
+        "id": 4,
+        "serviceName": "Blood Bank",
+        "Time": "24 hour",
+        "description": "A blood bank is a center where blood gathered as a result of blood donation is stored and preserved for later use in blood transfusion.",
+        "img": "https://ca-times.brightspotcdn.com/dims4/default/351f329/2147483647/strip/true/crop/5760x3840+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc3%2Fb7%2Fc6c03ce84290881fc21e47645d6f%2Fadobestock-234194143.jpeg"
+    },
+    {
+        "id": 5,
+        "serviceName": "Lab Reports",
+        "Time": "24 hour",
+        "description": "A laboratory (lab) test is a procedure in which a health care provider takes a sample of your blood, urine, other bodily fluid, or body tissue to get information about your health.",
+        "img": "https://st2.depositphotos.com/4471407/8183/i/600/depositphotos_81836438-stock-photo-laboratory-paper-and-utensils-for.jpg"
+    },
+    {
+        "id": 6,
+        "serviceName": "Ambulance",
+        "Time": "24 hour",
+        "description": "A laboratory (lab) test is a procedure in which a health care provider takes a sample of your blood, urine, other bodily fluid, or body tissue to get information about your health.",
+        "img": "https://image.shutterstock.com/image-vector/ambulance-emergency-vector-isolated-260nw-1246752466.jpg"
+    }
+]
